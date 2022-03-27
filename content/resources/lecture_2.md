@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 14cc02af-b6b3-c20f-aea7-4a79f13158c0
 resourcetype: Document
 title: Neurotransmitter Systems
 uid: 9cd2b47e-9ca1-7dbe-6732-4f84e80d60e3
