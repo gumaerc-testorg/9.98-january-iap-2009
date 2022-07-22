@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a multiple-choice exam on neuropharmacology.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 17d1199f-2956-24a7-a939-c4ba5a2d743c
 ---
