@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on neuropsychiatric disorders, anxiety, and mood
   disorders.
 file: /courses/9-98-neuropharmacology-january-iap-2009/966155502097299eaf28b28c15664056_lecture_3.pdf
+file_size: 1017397
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
